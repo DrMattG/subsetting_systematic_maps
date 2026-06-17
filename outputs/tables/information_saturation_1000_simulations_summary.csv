@@ -1,0 +1,31 @@
+variable,percent_screened,mean_unique,lower,upper
+Country,10,17.933,13,32
+Country,20,27.64,21,39
+Country,30,34.074,27,43.02499999999998
+Country,40,38.981,31,47
+Country,50,43.172,36,50.02499999999998
+Country,60,46.617,39,53
+Country,70,49.636,43,55
+Country,80,52.329,46,56
+Country,90,54.682,49,57
+Country,100,57,57,57
+Intervention,10,11.466,9,13
+Intervention,20,12.537,11,14
+Intervention,30,12.922,12,14
+Intervention,40,13.164,12,14
+Intervention,50,13.388,12,14
+Intervention,60,13.538,12,14
+Intervention,70,13.677,13,14
+Intervention,80,13.781,13,14
+Intervention,90,13.885,13,14
+Intervention,100,14,14,14
+Outcome subtype,10,10.789,9,12
+Outcome subtype,20,11.179,11,12
+Outcome subtype,30,11.31,11,12
+Outcome subtype,40,11.407,11,12
+Outcome subtype,50,11.492,11,12
+Outcome subtype,60,11.603,11,12
+Outcome subtype,70,11.697,11,12
+Outcome subtype,80,11.791,11,12
+Outcome subtype,90,11.892,11,12
+Outcome subtype,100,12,12,12
